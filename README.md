@@ -40,7 +40,7 @@ Para o futuro:
       <img height="170em" src="https://leetcard.jacoblin.cool/nicollasprado?theme=dark&font=Nanum%20Gothic%20Coding">
     </picture>
 </div>
-    
+##
 <div align=center style="display: inline-block">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
   <img align="center" height="40" width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4">
@@ -52,7 +52,7 @@ Para o futuro:
 
 ----
 
-<div align=center style="display: inline-block; gap="50px">
+<div align=center gap="10px" style="display: inline-block>
   <a href="https://discord.gg/NMNpJhXNPr"> <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a>
   <a href="mailto:nicollasprado.profissional@gmail.com"> <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
   <a href="https://www.linkedin.com/in/nicollas-matheus-5646a326b/"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
