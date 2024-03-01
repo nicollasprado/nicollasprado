@@ -1,4 +1,4 @@
-## Bem Vindo ao meu Perfil <img height="40" width="40" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
+## Bem Vindo ao meu Perfil <img height="30" width="30" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 
 ----
 
