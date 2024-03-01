@@ -16,7 +16,6 @@ Para o futuro:
 ##
 
 <div style="display: inline-block">
-  <br>
   <a href="https://github.com/nicollasprado/nicollasprado">
     <picture>
       <source
@@ -42,7 +41,8 @@ Para o futuro:
     </picture>
 </div>
     
-<div align=center>
+<div align=center> 
+  <br>
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
   <img align="center" height="40" width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4">
   <img align="center" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">
