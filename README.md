@@ -37,11 +37,14 @@ Meu nome e Nicollas e atualmente estou no primeiro periodo da faculdade de Anali
 <div style="display: inline-block">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 ----
 
-<div align=center style="display: flex; justify-content: space-evenly>
+<div align=center style="display: flex; justify-content: space-evenly;>
   <a href="https://discord.gg/NMNpJhXNPr"> <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a>
   <a href="mailto:nicollasprado.profissional@gmail.com"> <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
   <a href="https://www.linkedin.com/in/nicollas-matheus-5646a326b/"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
