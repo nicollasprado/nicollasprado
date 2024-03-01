@@ -2,7 +2,12 @@
 
 ----
 
-Meu nome e Nicollas e atualmente estou no primeiro periodo da faculdade de Analise e Desenvolvimento de Sistemas
+Meu nome e Nicollas, atualmente estou no primeiro periodo da faculdade de Analise e Desenvolvimento de Sistemas e planejo trabalhar com backend!
+
+Atualmente estou focado em:
+- Aperfeicoar minhas habilidades com python
+- Aprender a utilizar eficientemente o framework Django
+- Aperfeicoar meus conhecimentos acerca de banco de dados
 
 ##
 
@@ -34,10 +39,9 @@ Meu nome e Nicollas e atualmente estou no primeiro periodo da faculdade de Anali
 
 ##
     
-<div style="display: inline-block">
+<div align=center style="display: inline-block">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
