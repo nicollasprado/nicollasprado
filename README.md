@@ -11,7 +11,7 @@ Meu nome e Nicollas e atualmente estou no primeiro periodo da faculdade de Anali
       srcset="https://github-readme-stats.vercel.app/api?username=nicollasprado&show_icons=true&theme=buefy"
         media="(prefers-color-scheme: light)"
       />
-      <img src="https://github-readme-stats.vercel.app/api?username=nicollasprado&show_icons=true&theme=midnight-purple">
+      <img width="40" height="30" src="https://github-readme-stats.vercel.app/api?username=nicollasprado&show_icons=true&theme=midnight-purple">
     </picture>
     <picture>
       <source
@@ -22,7 +22,7 @@ Meu nome e Nicollas e atualmente estou no primeiro periodo da faculdade de Anali
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=buefy"
         media="(prefers-color-scheme: light)"
       />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=midnight-purple">
+      <img width="40" height="30" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=midnight-purple">
     </picture>
 </div>
 
