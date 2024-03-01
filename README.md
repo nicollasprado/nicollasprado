@@ -21,14 +21,14 @@ Meu nome e Nicollas e atualmente estou no primeiro periodo da faculdade de Anali
     </picture>
     <picture>
       <source
-      srcset="https://leetcard.jacoblin.cool/nicollasprado?theme=dark&font=Nanum%20Gothic%20Coding&ext=activity"
+      srcset="https://leetcard.jacoblin.cool/nicollasprado?theme=dark&font=Nanum%20Gothic%20Coding"
       media="(prefers-color-scheme: dark)"
       />
       <source
-      srcset="https://leetcard.jacoblin.cool/nicollasprado?theme=dark&font=Nanum%20Gothic%20Coding&ext=activity"
+      srcset="https://leetcard.jacoblin.cool/nicollasprado?theme=dark&font=Nanum%20Gothic%20Coding"
         media="(prefers-color-scheme: light)"
       />
-      <img height="205em" src="https://leetcard.jacoblin.cool/nicollasprado?theme=dark&font=Nanum%20Gothic%20Coding&ext=activity">
+      <img height="205em" src="https://leetcard.jacoblin.cool/nicollasprado?theme=dark&font=Nanum%20Gothic%20Coding">
     </picture>
 </div>
     
