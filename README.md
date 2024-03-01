@@ -17,7 +17,7 @@ Meu nome e Nicollas e atualmente estou no primeiro periodo da faculdade de Anali
       srcset="https://github-readme-stats.vercel.app/api?username=nicollasprado&show_icons=true&theme=buefy&locale=pt-br"
         media="(prefers-color-scheme: light)"
       />
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nicollasprado&show_icons=true&theme=midnight-purple&locale=pt-br">
+      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nicollasprado&show_icons=true&theme=midnight-purple&locale=pt-br">
     </picture>
     <picture>
       <source
@@ -28,7 +28,7 @@ Meu nome e Nicollas e atualmente estou no primeiro periodo da faculdade de Anali
       srcset="https://leetcard.jacoblin.cool/nicollasprado?theme=dark&font=Nanum%20Gothic%20Coding"
         media="(prefers-color-scheme: light)"
       />
-      <img height="160em" src="https://leetcard.jacoblin.cool/nicollasprado?theme=dark&font=Nanum%20Gothic%20Coding">
+      <img height="170em" src="https://leetcard.jacoblin.cool/nicollasprado?theme=dark&font=Nanum%20Gothic%20Coding">
     </picture>
 </div>
     
