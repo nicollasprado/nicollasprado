@@ -35,6 +35,6 @@ Meu nome e Nicollas e atualmente estou no primeiro periodo da faculdade de Anali
 ----
 
 <div style="display: inline-block">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
 </div>
