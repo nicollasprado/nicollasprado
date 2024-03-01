@@ -30,7 +30,6 @@ Meu nome e Nicollas e atualmente estou no primeiro periodo da faculdade de Anali
       />
       <img height="170em" src="https://leetcard.jacoblin.cool/nicollasprado?theme=dark&font=Nanum%20Gothic%20Coding">
     </picture>
-    \n
 </div>
 
 ##
@@ -42,8 +41,9 @@ Meu nome e Nicollas e atualmente estou no primeiro periodo da faculdade de Anali
 
 ----
 
-<div style="display: inline-block align-items>
-  <a href="discord.gg/NMNpJhXNPr"> <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a>
+<div style="display: inline-block align-items: center>
+  <a href="https://discord.gg/NMNpJhXNPr"> <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a>
   <a href="mailto:nicollasprado.profissional@gmail.com"> <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
   <a href="https://www.linkedin.com/in/nicollas-matheus-5646a326b/"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+  <a href="https://www.instagram.com/nicollasmp/"> <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
 </div>
