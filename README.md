@@ -40,6 +40,6 @@ Meu nome e Nicollas e atualmente estou no primeiro periodo da faculdade de Anali
 ----
 
 <div style="display: inline-block>
-  <a href="/discord.gg/952EfJA9" target="_blank"> <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> </a>
+  <a href="[discord.gg/952EfJA9](https://discord.gg/NMNpJhXNPr)" target="_blank"> <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a>
   <a href="mailto:nicollasprado.profissional@gmail.com"> <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 </div>
