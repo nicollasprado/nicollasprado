@@ -19,7 +19,7 @@ Meu nome e Nicollas e atualmente estou no primeiro periodo da faculdade de Anali
       />
       <img height="205em" src="https://github-readme-stats.vercel.app/api?username=nicollasprado&show_icons=true&theme=midnight-purple&locale=pt-br">
     </picture>
-    <div style="display=flex; flex-direction column">
+    <div style="display=flex, flex-direction column">
       <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
       <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
     </div>
