@@ -16,6 +16,7 @@ Para o futuro:
 ##
 
 <div style="display: inline-block">
+  <br>
   <a href="https://github.com/nicollasprado/nicollasprado">
     <picture>
       <source
@@ -40,14 +41,11 @@ Para o futuro:
       <img height="170em" src="https://leetcard.jacoblin.cool/nicollasprado?theme=dark&font=Nanum%20Gothic%20Coding">
     </picture>
 </div>
-    <p></p>
-    <p></p>
-    <p></p>
-<div align=center style="display: inline-block">
+    
+<div align=center>
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
   <img align="center" height="40" width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4">
   <img align="center" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">
-  <img>
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
