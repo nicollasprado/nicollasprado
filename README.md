@@ -28,7 +28,7 @@ Meu nome e Nicollas e atualmente estou no primeiro periodo da faculdade de Anali
       srcset="https://leetcard.jacoblin.cool/nicollasprado?theme=dark&font=Nanum%20Gothic%20Coding&ext=activity"
         media="(prefers-color-scheme: light)"
       />
-      <img height="205em" width="400em" src="https://leetcard.jacoblin.cool/nicollasprado?theme=dark&font=Nanum%20Gothic%20Coding&ext=activity">
+      <img height="205em" src="https://leetcard.jacoblin.cool/nicollasprado?theme=dark&font=Nanum%20Gothic%20Coding&ext=activity">
     </picture>
 </div>
     
