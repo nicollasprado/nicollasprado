@@ -30,8 +30,11 @@ Meu nome e Nicollas e atualmente estou no primeiro periodo da faculdade de Anali
       />
       <img height="170em" src="https://leetcard.jacoblin.cool/nicollasprado?theme=dark&font=Nanum%20Gothic%20Coding">
     </picture>
+    \n
 </div>
+
 ##
+    
 <div style="display: inline-block">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
@@ -39,7 +42,8 @@ Meu nome e Nicollas e atualmente estou no primeiro periodo da faculdade de Anali
 
 ----
 
-<div style="display: inline-block>
+<div style="display: inline-block align-items>
   <a href="discord.gg/NMNpJhXNPr"> <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a>
   <a href="mailto:nicollasprado.profissional@gmail.com"> <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+  <a href="https://www.linkedin.com/in/nicollas-matheus-5646a326b/"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 </div>
