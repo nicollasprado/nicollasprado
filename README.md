@@ -1,6 +1,11 @@
-## Bem Vindo ao meu Perfil
-Meu nome e Nicollas e atualmente estou no primeiro periodo da faculdade de Analise e Desenvolvimento de Sistemas
+## Bem Vindo ao meu Perfil <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
+
 ----
+
+Meu nome e Nicollas e atualmente estou no primeiro periodo da faculdade de Analise e Desenvolvimento de Sistemas
+
+##
+
 <div style="display: inline-block">
   <a href="https://github.com/nicollasprado/nicollasprado">
     <picture>
