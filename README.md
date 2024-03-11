@@ -6,7 +6,7 @@ Meu nome e Nicollas, atualmente estou no primeiro periodo da faculdade de Analis
 
 Atualmente estou focado em:
 - Aperfeicoar minhas habilidades com python
-- Aprender a utilizar eficientemente o framework Django
+- Aprender a utilizar eficientemente o framework Flask
 - Aperfeicoar meus conhecimentos acerca de banco de dados
 
 Para o futuro:
