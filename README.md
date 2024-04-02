@@ -4,7 +4,7 @@
 
 Meu nome e Nicollas, atualmente estou no primeiro periodo da faculdade de Analise e Desenvolvimento de Sistemas e planejo trabalhar com backend!
 
-Confira meu último projeot: https://nicollasprado.pythonanywhere.com/
+📌 Confira meu último projeot: https://nicollasprado.pythonanywhere.com/
 
 Atualmente estou focado em:
 - Aperfeicoar minhas habilidades com python
