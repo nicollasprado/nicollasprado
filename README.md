@@ -14,7 +14,7 @@ Para o futuro:
 - Aprender JAVA
 - Aprender RestAPI
 
-<a href="https://nicollasprado.pythonanywhere.com/">Confira meu último projeto</a>
+👉 <a href="https://nicollasprado.pythonanywhere.com/">Confira meu último projeto</a>
 
 ##
 
