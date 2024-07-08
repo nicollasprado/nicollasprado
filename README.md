@@ -6,13 +6,11 @@ Meu nome e Nicollas, atualmente estou no primeiro periodo da faculdade de Analis
 
 
 Atualmente estou focado em:
-- Aperfeicoar minhas habilidades com python
-- Aprender a utilizar eficientemente o framework Flask
+- Aperfeicoar minhas habilidades com java
 - Aperfeicoar meus conhecimentos acerca de banco de dados
 
 Para o futuro:
-- Aprender JAVA
-- Aprender RestAPI
+- Aprofundar meus conhecimentos em banco de dados
 
 👉 <a href="https://nicollasprado.pythonanywhere.com/">Confira meu último projeto</a>
 
