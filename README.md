@@ -2,7 +2,7 @@
 
 ----
 
-Meu nome e Nicollas, atualmente estou no primeiro periodo da faculdade de Analise e Desenvolvimento de Sistemas e planejo trabalhar com backend!
+Meu nome e Nicollas, atualmente estou no primeiro periodo da faculdade de Analise e Desenvolvimento de Sistemas e planejo trabalhar com desenvolvimento mobile!
 
 
 Atualmente estou focado em:
@@ -10,7 +10,7 @@ Atualmente estou focado em:
 - Aperfeicoar meus conhecimentos acerca de banco de dados
 
 Para o futuro:
-- Aprofundar meus conhecimentos em banco de dados
+- Aprofundar meus conhecimentos em desenvolvimento mobile
 
 👉 <a href="https://nicollasprado.pythonanywhere.com/">Confira meu último projeto</a>
 
