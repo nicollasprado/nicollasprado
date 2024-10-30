@@ -20,14 +20,14 @@ Para o futuro:
   <a href="https://github.com/nicollasprado/nicollasprado">
     <picture>
       <source
-      srcset="https://github-readme-stats.vercel.app/api?username=nicollasprado&show_icons=true&theme=midnight-purple&locale=pt-br"
+      srcset="https://github-readme-stats.vercel.app/api?username=nicollasprado&show_icons=true&rank_icon=github&theme=midnight-purple&locale=pt-br"
       media="(prefers-color-scheme: dark)"
       />
       <source
-      srcset="https://github-readme-stats.vercel.app/api?username=nicollasprado&show_icons=true&theme=buefy&locale=pt-br"
+      srcset="https://github-readme-stats.vercel.app/api?username=nicollasprado&show_icons=true&rank_icon=github&theme=buefy&locale=pt-br"
         media="(prefers-color-scheme: light)"
       />
-      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nicollasprado&show_icons=true&theme=midnight-purple&locale=pt-br">
+      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nicollasprado&show_icons=true&rank_icon=github&theme=midnight-purple&locale=pt-br">
     </picture>
     <picture>
       <source
