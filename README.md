@@ -2,7 +2,7 @@
 
 ----
 
-Meu nome e Nicollas, atualmente estou no primeiro periodo da faculdade de Analise e Desenvolvimento de Sistemas e planejo trabalhar com desenvolvimento mobile!
+Meu nome e Nicollas, atualmente estou no segundo periodo da faculdade de Analise e Desenvolvimento de Sistemas e planejo trabalhar com desenvolvimento mobile!
 
 
 Atualmente estou focado em:
