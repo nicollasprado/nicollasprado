@@ -8,7 +8,7 @@ Meu nome e Nicollas, atualmente estou no segundo periodo da faculdade de Analise
 Atualmente estou focado em:
 - Aperfeicoar minhas habilidades com java
 - Aperfeicoar meus conhecimentos acerca de banco de dados
-
+ 
 Para o futuro:
 - Aprofundar meus conhecimentos em desenvolvimento mobile
 
