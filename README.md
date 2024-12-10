@@ -2,17 +2,15 @@
 
 ----
 
-Meu nome e Nicollas, atualmente estou no segundo periodo da faculdade de Analise e Desenvolvimento de Sistemas e planejo trabalhar com desenvolvimento mobile!
+Meu nome e Nicollas, atualmente estou no segundo periodo da faculdade de Analise e Desenvolvimento de Sistemas.
 
 
 Atualmente estou focado em:
 - Aprender o framework springboot;
 - Aprofundar meus conhecimentos em redes;
-- Aprofundar meus conhecimentos em arquitetura de computadores.
+- Aprofundar meus conhecimentos em arquitetura de computadores;
+- Criação de projetos pessoais.
  
-Para o futuro:
-- Aprofundar meus conhecimentos em desenvolvimento mobile
-
 👉 <a href="https://nicollasprado.pythonanywhere.com/">Confira meu último projeto</a>
 
 ##
