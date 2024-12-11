@@ -2,14 +2,9 @@
 
 ----
 
-Meu nome e Nicollas, atualmente estou no segundo periodo da faculdade de Analise e Desenvolvimento de Sistemas.
+Graduando em Análise e Desenvolvimento de Sistemas 💻
 
-
-Atualmente estou focado em:
-- Aprender o framework springboot;
-- Aprofundar meus conhecimentos em redes;
-- Aprofundar meus conhecimentos em arquitetura de computadores;
-- Criação de projetos pessoais.
+Atualmente estudando Java com Springboot para desenvolver minhas habilidades com backend.
  
 👉 <a href="https://nicollasprado.pythonanywhere.com/">Confira meu último projeto</a>
 
