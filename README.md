@@ -32,7 +32,7 @@ Atualmente estudando Java com Springboot para desenvolver minhas habilidades com
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollasprado&layout=compact&theme=buefy&locale=pt-br"
         media="(prefers-color-scheme: light)"
       />
-      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollasprado&layout=compact&theme=midnight-purple&locale=pt-br">
+      <img height="170em" width="50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollasprado&layout=compact&theme=midnight-purple&locale=pt-br">
     </picture>
 </div>
     
