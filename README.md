@@ -25,14 +25,14 @@ Atualmente estudando Java com Springboot para desenvolver minhas habilidades com
     </picture>
     <picture>
       <source
-      srcset="https://leetcard.jacoblin.cool/nicollasprado?theme=dark&font=Nanum%20Gothic%20Coding"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollasprado&layout=compact&theme=midnight-purple&locale=pt-br"
       media="(prefers-color-scheme: dark)"
       />
       <source
-      srcset="https://leetcard.jacoblin.cool/nicollasprado?theme=dark&font=Nanum%20Gothic%20Coding"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollasprado&layout=compact&theme=buefy&locale=pt-br"
         media="(prefers-color-scheme: light)"
       />
-      <img height="170em" src="https://leetcard.jacoblin.cool/nicollasprado?theme=dark&font=Nanum%20Gothic%20Coding">
+      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollasprado&layout=compact&theme=midnight-purple&locale=pt-br">
     </picture>
 </div>
     
