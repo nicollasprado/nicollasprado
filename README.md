@@ -29,7 +29,7 @@ Atualmente estudando Java com Springboot para desenvolver minhas habilidades com
       media="(prefers-color-scheme: dark)"
       />
       <source
-      srcset="https://leetcard.jacoblin.cool/nicollasprado?theme=dark&font=Nanum%20Gothic%20Coding"
+      srcset="https://leetcard.jacoblin.cool/nicollasprado?theme=light&font=Nanum%20Gothic%20Coding"
         media="(prefers-color-scheme: light)"
       />
       <img height="170em" src="https://leetcard.jacoblin.cool/nicollasprado?theme=dark&font=Nanum%20Gothic%20Coding">
