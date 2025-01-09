@@ -10,6 +10,14 @@ Atualmente **estudando Java com Springboot** para desenvolver minhas habilidades
 
 ##
 
+### Linguagens e Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,maven,tailwind,neovim,figma,postman,git)](https://skillicons.dev)
+
+##
+<br>
 <div style="display: inline-block">
   <a href="https://github.com/nicollasprado/nicollasprado">
     <picture>
@@ -35,12 +43,6 @@ Atualmente **estudando Java com Springboot** para desenvolver minhas habilidades
       <img height="170em" src="https://leetcard.jacoblin.cool/nicollasprado?theme=dark&font=Nanum%20Gothic%20Coding">
     </picture>
 </div>
-
-### Linguagens e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,js)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=spring,react)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=linux,maven,tailwind,neovim,figma,postman,git)](https://skillicons.dev)
 
 ----
 
