@@ -4,7 +4,7 @@
 
 Graduando em Análise e Desenvolvimento de Sistemas 💻
 
-Atualmente estudando Java com Springboot para desenvolver minhas habilidades com backend e React para frontend.
+Atualmente **estudando Java com Springboot** para desenvolver minhas habilidades com backend e **React** para frontend.
  
 👉 <a href="https://nicollasprado.pythonanywhere.com/">Confira meu último projeto</a>
 
