@@ -14,7 +14,7 @@ Atualmente **estudando Java com Springboot** para desenvolver minhas habilidades
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,js)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=spring,react)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=linux,maven,tailwind,neovim,figma,postman,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,maven,tailwind,html,css,neovim,figma,postman,git)](https://skillicons.dev)
 
 ##
 <br>
