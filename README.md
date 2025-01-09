@@ -13,22 +13,6 @@ Atualmente **estudando Java com Springboot** para desenvolver minhas habilidades
 ### Linguagens e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,js,spring,react,mysql,linux,maven,tailwind,html,css,neovim,figma,postman,git)](https://skillicons.dev)
 
-##
-<br>
-<div style="display: inline-block">
-  <a href="https://github.com/nicollasprado/nicollasprado">
-    <picture>
-      <source
-      srcset="https://github-readme-stats.vercel.app/api?username=nicollasprado&show_icons=true&rank_icon=github&theme=midnight-purple&locale=pt-br"
-      media="(prefers-color-scheme: dark)"
-      />
-      <source
-      srcset="https://github-readme-stats.vercel.app/api?username=nicollasprado&show_icons=true&rank_icon=github&theme=buefy&locale=pt-br"
-        media="(prefers-color-scheme: light)"
-      />
-      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nicollasprado&show_icons=true&rank_icon=github&theme=midnight-purple&locale=pt-br">
-    </picture>
-
 ----
 
 <div align=center style="display: inline-block>
