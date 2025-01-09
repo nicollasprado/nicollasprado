@@ -28,18 +28,6 @@ Atualmente **estudando Java com Springboot** para desenvolver minhas habilidades
       />
       <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nicollasprado&show_icons=true&rank_icon=github&theme=midnight-purple&locale=pt-br">
     </picture>
-    <picture>
-      <source
-      srcset="https://leetcard.jacoblin.cool/nicollasprado?theme=dark&font=Nanum%20Gothic%20Coding"
-      media="(prefers-color-scheme: dark)"
-      />
-      <source
-      srcset="https://leetcard.jacoblin.cool/nicollasprado?theme=light&font=Nanum%20Gothic%20Coding"
-        media="(prefers-color-scheme: light)"
-      />
-      <img height="170em" src="https://leetcard.jacoblin.cool/nicollasprado?theme=dark&font=Nanum%20Gothic%20Coding">
-    </picture>
-</div>
 
 ----
 
