@@ -6,7 +6,7 @@ Graduando em Análise e Desenvolvimento de Sistemas 💻
 
 Atualmente **estudando Java com Springboot** para desenvolver minhas habilidades com backend e **React** para frontend.
  
-👉 <a href="https://nicollasprado.pythonanywhere.com/">Confira meu último projeto</a>
+👉 <a href="https://gerenciadortarefas-gules.vercel.app/">Confira meu último projeto</a>
 
 ### Linguagens e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,js,spring,react,mysql,linux,maven,tailwind,html,css,neovim,figma,postman,git)](https://skillicons.dev)
