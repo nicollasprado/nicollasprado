@@ -6,8 +6,6 @@ Graduando em Análise e Desenvolvimento de Sistemas 💻
 
 Atualmente **estudando Java com Springboot** para desenvolver minhas habilidades com backend e **React** para frontend.
  
-👉 <a href="https://gerenciadortarefas-gules.vercel.app/">Confira meu último projeto</a>
-<br>
 <br>
 👉 <a href="https://portfolio-nicollasprados-projects.vercel.app/">Confira meu portfólio</a>
 
