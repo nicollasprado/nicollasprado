@@ -4,13 +4,13 @@
 
 Graduando em Análise e Desenvolvimento de Sistemas 💻
 
-Atualmente **estudando Java com Springboot** para desenvolver minhas habilidades com backend e **React** para frontend.
+Atualmente **estudando Java com Springboot** para desenvolver minhas habilidades com backend e **React com Next** para frontend.
  
 <br>
 👉 <a href="https://portfolio-nicollasprados-projects.vercel.app/">Confira meu portfólio</a>
 
 ### Linguagens e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,js,spring,react,mysql,postgres,linux,postman,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,ts,spring,react,next,mysql,postgres,linux,postman,git)](https://skillicons.dev)
 
 ----
 
