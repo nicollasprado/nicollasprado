@@ -8,6 +8,9 @@ Atualmente **estudando Java com Springboot** para desenvolver minhas habilidades
  
 <br>
 👉 <a href="https://portfolio-nicollasprados-projects.vercel.app/">Confira meu portfólio</a>
+<br>
+<br>
+👉 <a href="https://minervaguess.vercel.app/">Confira meu último projeto</a>
 
 ### Linguagens e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=java,ts,spring,react,next,mysql,postgres,linux,postman,git)](https://skillicons.dev)
