@@ -13,7 +13,7 @@ Atualmente **estudando Java com Springboot** para desenvolver minhas habilidades
 👉 <a href="https://minervaguess.vercel.app/">Confira meu último projeto</a>
 
 ### Linguagens e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=java,ts,spring,react,next,mysql,postgres,redis,linux,postman,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,ts,spring,react,next,mysql,postgres,redis,docker,linux,postman,git)](https://skillicons.dev)
 
 ----
 
