@@ -29,6 +29,4 @@
  
 ### Contato:
 <a href="https://www.instagram.com/nicollasmp/" target="_blank"><img align=center src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:nicollasprado.profissional@gmail.com" target="_blank"><img align=center src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/nicollas-prado-420082302/" target="_blank"><img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/NMNpJhXNPr" target="_blank"><img align=center src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
