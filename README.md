@@ -1,8 +1,7 @@
 ## Bem Vindo ao meu Perfil <img height="30" width="30" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> 
 
-----
-
-Graduando em Análise e Desenvolvimento de Sistemas 💻
+💻 Estudante de Análise e Desenvolvimento de Sistemas no IFRN.<br>
+👨‍💻 Estou imerso na área de tecnologia desde os meus 15 anos sempre buscando aprender coisas novas e pô-las em prática. Gosto de aprender como as coisas funcionam, principalmente na área de tecnologia, e sou criativo na hora de solucionar problemas.
  
 <br>
 👉 <a href="https://portfolio-nicollasprados-projects.vercel.app/">Confira meu portfólio</a>
