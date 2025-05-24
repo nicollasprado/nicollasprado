@@ -2,12 +2,6 @@
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas no IFRN.<br>
 👨‍💻 Estudo programação desde os meus 16 anos e estou sempre buscando aprender coisas novas e pô-las em prática. Além disso, gosto de aprender como as coisas funcionam, principalmente na área de tecnologia, e sou criativo na hora de solucionar problemas.
- 
-<br>
-👉 <a href="https://portfolio-nicollasprados-projects.vercel.app/">Confira meu portfólio</a>
-<br>
-<br>
-👉 <a href="https://minervaguess.vercel.app/">Confira meu último projeto</a>
 
 ### Linguagens e Ferramentas:
 
